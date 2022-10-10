@@ -9,7 +9,7 @@ import com.example.recipeapp.Entities.Recipes
 @Dao
 interface RecipeDao {
 
-    @get:Query("SELECT * FROM ORDERS ODER BY id DESC")
+    @get:Query("SELECT * FROM Recipes order BY id DESC")
     val allRecipes: List<Recipes>
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)

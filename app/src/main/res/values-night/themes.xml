@@ -7,4 +7,11 @@
         <item name="colorAccent">@color/brown</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="ThemeOverlay.Search" parent="Theme.RecipeApp">
+        <!-- Primary brand color. -->
+        <item name="editTextColor">@color/darkgreen</item>
+        <item name="android:textColorHint">@color/darkgreen</item>
+        <!-- Customize your theme here. -->
+    </style>
 </resources>

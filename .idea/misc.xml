@@ -5,7 +5,13 @@
       <map>
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/RecipeApp/app/src/main/res/drawable/btn_bg.xml" value="0.1" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/RecipeApp/app/src/main/res/drawable/rectangle0.xml" value="0.1565" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/RecipeApp/app/src/main/res/drawable/search_bg.xml" value="0.1385" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/RecipeApp/app/src/main/res/font/fonts.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/RecipeApp/app/src/main/res/layout/activity_home.xml" value="0.18" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/RecipeApp/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/RecipeApp/app/src/main/res/layout/item_rv_main_activity.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/RecipeApp/app/src/main/res/layout/item_rv_main_category.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/RecipeApp/app/src/main/res/layout/item_rv_sub_category.xml" value="0.13020833333333334" />
       </map>
     </option>
   </component>
