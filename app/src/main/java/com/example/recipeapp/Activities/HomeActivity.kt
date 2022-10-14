@@ -10,7 +10,7 @@ import com.example.recipeapp.Entities.Recipes
 import com.example.recipeapp.R
 import kotlinx.android.synthetic.main.activity_home.*
 
-class HomeActivity : AppCompatActivity() {
+class HomeActivity : BaseActivity() {
     var arrMainCategory = ArrayList<Recipes>()
     var arrSubCategory = ArrayList<Recipes>()
 
